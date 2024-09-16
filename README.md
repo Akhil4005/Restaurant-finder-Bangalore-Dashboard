@@ -11,7 +11,7 @@
 - You will also get an average expenditure estimate for how much it will cost for two people to eat, as well as the minimum and maximum costs that might be incurred.
 
 ---
-![Restaurant Finder Dashboard](https://github.com/yourusername/repositoryname/blob/main/imagefilename.jpg)
+![Restaurant Finder Dashboard](https://github.com/Akhil4005/Restaurant-finder-Bangalore-Dashboard/blob/main/pbi.jpeg)
 ### Project Motivation:
 
 Being a foodie myself, I love exploring different types of cuisines and new restaurants every Saturday evening when I am free. Since Bengaluru is a very large city, with over 56,000 restaurants and new ones opening daily, I decided to filter a dataset available to me from Kaggle.
